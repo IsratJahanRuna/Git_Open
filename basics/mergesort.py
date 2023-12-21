@@ -49,4 +49,4 @@ if __name__ == "__main__":
             quit(1)
 
     sorted_list = mergesort(value_list)
-    print(sorted_list)
+    print(sorted_list)   
