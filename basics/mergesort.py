@@ -1,4 +1,3 @@
-
 def debug_print(debug_msg=None, **kwargs):
 
     if debug_msg:
@@ -50,5 +49,3 @@ if __name__ == "__main__":
 
     sorted_list = mergesort(value_list)
     print(sorted_list)
-
-
